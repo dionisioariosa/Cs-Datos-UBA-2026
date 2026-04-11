@@ -1,0 +1,41 @@
+mkdir dir1 dir2 dir3 
+mkdir dir4\dir5\dir6 
+mkdir "carpeta prueba" 
+mkdir dir1 dir2 dir3 
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 5A56-B1A2
+
+ Directorio de C:\Users\Dionisio\Documents\tareas-ciencia de datos
+
+10/04/2026  23:36    <DIR>          .
+10/04/2026  22:50    <DIR>          ..
+10/04/2026  23:19    <DIR>          carpeta prueba
+11/04/2026  00:02                64 combined.txt
+10/04/2026  23:33               541 output.txt
+10/04/2026  23:14    <DIR>          Tarea01
+11/04/2026  00:05                94 tarea_01.txt
+10/04/2026  23:35                17 test_1.txt
+10/04/2026  23:35                24 test_2.txt
+10/04/2026  23:35                23 test_3.txt
+               6 archivos            763 bytes
+               4 dirs  170,044,436,480 bytes libres
+dir 
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 5A56-B1A2
+
+ Directorio de C:\Users\Dionisio\Documents\tareas-ciencia de datos
+
+10/04/2026  23:36    <DIR>          .
+10/04/2026  22:50    <DIR>          ..
+10/04/2026  23:19    <DIR>          carpeta prueba
+11/04/2026  00:02                64 combined.txt
+10/04/2026  23:33               541 output.txt
+10/04/2026  23:14    <DIR>          Tarea01
+11/04/2026  00:05               835 tarea_01.txt
+10/04/2026  23:35                17 test_1.txt
+10/04/2026  23:35                24 test_2.txt
+10/04/2026  23:35                23 test_3.txt
+               6 archivos          1,504 bytes
+               4 dirs  170,044,424,192 bytes libres
+whoami 
+dariosa-001\dionisio
