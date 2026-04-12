@@ -1,0 +1,29 @@
+install.packages("tidyverse")
+install.packages("palmerpenguins")
+install.packages("ggthemes")
+library(tidyverse)
+library(palmerpenguins)
+library(ggthemes)
+glimpse(penguins)
+1) dim(penguins)
+2)> ?penguins
+> ggplot(penguins, aes(x = bill_length_mm, y = bill_depth_mm)) +
++   geom_point()
+3)> ggplot(penguins, aes(x = species, y = bill_depth_mm)) +
++     geom_point()
+4)> ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
++     geom_point()
+5)ggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point()
+6)ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point(na.rm = TRUE)
+7)ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g)) +
+  geom_point(na.rm = TRUE) +
+  labs(caption = "Data come from the palmerpenguins package.")
+8)ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g, color = bill_depth_mm)) +
+  geom_point() +
+  geom_smooth()
+9)ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g, color = island)) +
+  geom_point() +
+  geom_smooth(se = FALSE)
+10) No
