@@ -1,0 +1,13 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 5A56-B1A2
+
+ Directorio de C:\Users\Dionisio\Documents\tareas-ciencia de datos
+
+10/04/2026  23:33    <DIR>          .
+10/04/2026  22:50    <DIR>          ..
+10/04/2026  23:19    <DIR>          carpeta prueba
+10/04/2026  23:33                 0 output.txt
+10/04/2026  23:14    <DIR>          Tarea01
+10/04/2026  23:20                71 tarea_01.txt
+               2 archivos             71 bytes
+               4 dirs  170,291,687,424 bytes libres
